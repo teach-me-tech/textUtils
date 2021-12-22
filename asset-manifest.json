@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/teach-me-tech/textutils.io/static/css/main.7e7ceecb.css",
+    "main.js": "/teach-me-tech/textutils.io/static/js/main.23838771.js",
+    "static/js/787.d322cc09.chunk.js": "/teach-me-tech/textutils.io/static/js/787.d322cc09.chunk.js",
+    "index.html": "/teach-me-tech/textutils.io/index.html",
+    "main.7e7ceecb.css.map": "/teach-me-tech/textutils.io/static/css/main.7e7ceecb.css.map",
+    "main.23838771.js.map": "/teach-me-tech/textutils.io/static/js/main.23838771.js.map",
+    "787.d322cc09.chunk.js.map": "/teach-me-tech/textutils.io/static/js/787.d322cc09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e7ceecb.css",
+    "static/js/main.23838771.js"
+  ]
+}
